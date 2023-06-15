@@ -39,8 +39,8 @@
 <p align="center" display="inline-block">
      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/mysql-3776AB?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/MongoDB-3776AB?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img src="https://img.shields.io/badge/AWS-3776AB?style=for-the-badge&logo=aws&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-ff9900?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-ccddff?style=for-the-badge&logo=aws&logoColor=white">
 </p>
 
 
