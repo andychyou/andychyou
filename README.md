@@ -27,8 +27,8 @@
 <p align="center" display="inline-block">
     <img src="https://img.shields.io/badge/Python-00ff00?style=for-the-badge&logo=Python&logoColor=black">
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=React&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=node&logoColor=white">
+    <img src="https://img.shields.io/badge/React-3776AB?style=for-the-badge&logo=React&logoColor=white">
+    <img src="https://img.shields.io/badge/NodeJS-ffa64d?style=for-the-badge&logo=nodejs&logoColor=white">
 </p>
 
 
@@ -38,9 +38,9 @@
 
 <p align="center" display="inline-block">
      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=mysql&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=mongodb&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=aws&logoColor=white">
+    <img src="https://img.shields.io/badge/mysql-3776AB?style=for-the-badge&logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/MongoDB-3776AB?style=for-the-badge&logo=mongodb&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS-3776AB?style=for-the-badge&logo=aws&logoColor=white">
 </p>
 
 
