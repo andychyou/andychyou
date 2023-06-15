@@ -1,4 +1,4 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hi%20There&height=150&fontSize=60&desc=Changho's%20Github&descAlignY=75&descAlign=60)
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hi%20There&height=180&fontSize=80&desc=Changho's%20Github&descAlignY=75&descAlign=60)
 
 
 ## Sogang Univ Student 
