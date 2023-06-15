@@ -53,9 +53,9 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
     
 ![Changho's github stats](https://github-readme-stats.vercel.app/api?username=andychyou&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=andychyou)](https://solved.ac/chltmdwns96/)
     
-</div>
+</div> -->
