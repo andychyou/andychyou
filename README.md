@@ -26,7 +26,7 @@
 
 <p align="center" display="inline-block">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=javascript&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=React&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=nodejs&logoColor=white">
 </p>
@@ -37,7 +37,7 @@
 </p>
 
 <p align="center" display="inline-block">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=C++&logoColor=white">
+     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=aws&logoColor=white">
@@ -47,22 +47,9 @@
 
 
 
-<p align="center" display="inline-block">
-    💡CI/CD <br>
-    <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
-</p>
 
-<p align="center">
-    💡Used at least once
-</p>
-<p align="center" display="inline-block">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white">
-  <img src="https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=jsp&logoColor=white">
-</p>
+
+
 
 <br>
 
