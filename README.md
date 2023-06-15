@@ -2,8 +2,7 @@
 
 <br>
 <p align="center">
-<Strong>📖Study</Strong><br>Sogang Univ.<br> Global Korean Studies/Computer Science & Engineering<br>
-    
+<Strong>📖Study</Strong><br>Sogang Univ.
 <br>
 <p align="center">
 <Strong>📧Email</Strong><br>andychyou@naver.com<br>
