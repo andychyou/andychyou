@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-<Strong>📖Study</Strong><br>Sogang Univ. Global Korean Studies/Computer Science & Engineering<br>
+<Strong>📖Study</Strong><br>Sogang Univ.<br> Global Korean Studies/Computer Science & Engineering<br>
     
 <br>
 <p align="center">
