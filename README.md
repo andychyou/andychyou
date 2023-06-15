@@ -5,8 +5,8 @@
 
 
 <br>
-
-<Strong align="center">📧Email</Strong><br>andychyou@naver.com<br>
+<p align="center">
+<Strong>📧Email</Strong><br>andychyou@naver.com<br>
 
 </p>
 
