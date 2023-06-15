@@ -1,6 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=shark&color=auto&height=300&section=header&text=Hi%20There&fontSize=90&desc=Sogang%20Univ%20Student" />
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hi%20There&height=150&fontSize=60&desc=Changho's%20Github&descAlignY=75&descAlign=60)
+
 
 ## Sogang Univ Student 
+
+
 
 <!--
 **andychyou/andychyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
